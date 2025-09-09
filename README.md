@@ -8,7 +8,7 @@ A simple, responsive weather dashboard built with HTML, CSS, and JavaScript. It 
 
 🌤️ Weather condition icons
 
-🎨 Dynamic background color based on temperature
+🎨 Dynamic background color based on temperature 
 
 🕘 Search history saved in local storage
 
